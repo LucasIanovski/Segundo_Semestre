@@ -1,0 +1,15 @@
+C:\Users\Lucas\Documents\Segundo_Semestre\BackEnd\Aula_02\Lista_02\exemploDeAula\bin\Debug\net9.0\exemploDeAula.exe
+C:\Users\Lucas\Documents\Segundo_Semestre\BackEnd\Aula_02\Lista_02\exemploDeAula\bin\Debug\net9.0\exemploDeAula.deps.json
+C:\Users\Lucas\Documents\Segundo_Semestre\BackEnd\Aula_02\Lista_02\exemploDeAula\bin\Debug\net9.0\exemploDeAula.runtimeconfig.json
+C:\Users\Lucas\Documents\Segundo_Semestre\BackEnd\Aula_02\Lista_02\exemploDeAula\bin\Debug\net9.0\exemploDeAula.dll
+C:\Users\Lucas\Documents\Segundo_Semestre\BackEnd\Aula_02\Lista_02\exemploDeAula\bin\Debug\net9.0\exemploDeAula.pdb
+C:\Users\Lucas\Documents\Segundo_Semestre\BackEnd\Aula_02\Lista_02\exemploDeAula\obj\Debug\net9.0\exemploDeAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\Segundo_Semestre\BackEnd\Aula_02\Lista_02\exemploDeAula\obj\Debug\net9.0\exemploDeAula.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\Segundo_Semestre\BackEnd\Aula_02\Lista_02\exemploDeAula\obj\Debug\net9.0\exemploDeAula.AssemblyInfo.cs
+C:\Users\Lucas\Documents\Segundo_Semestre\BackEnd\Aula_02\Lista_02\exemploDeAula\obj\Debug\net9.0\exemploDeAula.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\Segundo_Semestre\BackEnd\Aula_02\Lista_02\exemploDeAula\obj\Debug\net9.0\exemploDeAula.sourcelink.json
+C:\Users\Lucas\Documents\Segundo_Semestre\BackEnd\Aula_02\Lista_02\exemploDeAula\obj\Debug\net9.0\exemploDeAula.dll
+C:\Users\Lucas\Documents\Segundo_Semestre\BackEnd\Aula_02\Lista_02\exemploDeAula\obj\Debug\net9.0\refint\exemploDeAula.dll
+C:\Users\Lucas\Documents\Segundo_Semestre\BackEnd\Aula_02\Lista_02\exemploDeAula\obj\Debug\net9.0\exemploDeAula.pdb
+C:\Users\Lucas\Documents\Segundo_Semestre\BackEnd\Aula_02\Lista_02\exemploDeAula\obj\Debug\net9.0\exemploDeAula.genruntimeconfig.cache
+C:\Users\Lucas\Documents\Segundo_Semestre\BackEnd\Aula_02\Lista_02\exemploDeAula\obj\Debug\net9.0\ref\exemploDeAula.dll
