@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula_02", "Aula_02", "{13661F74-A828-A403-5C33-B42A42605005}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lista_02", "Lista_02", "{3C97E4B7-3552-B0D4-0EC5-2B1868CAE127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exemploDeAula", "Aula_02\Lista_02\exemploDeAula\exemploDeAula.csproj", "{6D3B2924-5DCE-5159-3967-5E948E2B7C46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D3B2924-5DCE-5159-3967-5E948E2B7C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D3B2924-5DCE-5159-3967-5E948E2B7C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D3B2924-5DCE-5159-3967-5E948E2B7C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D3B2924-5DCE-5159-3967-5E948E2B7C46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3C97E4B7-3552-B0D4-0EC5-2B1868CAE127} = {13661F74-A828-A403-5C33-B42A42605005}
+		{6D3B2924-5DCE-5159-3967-5E948E2B7C46} = {3C97E4B7-3552-B0D4-0EC5-2B1868CAE127}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D10E78F6-9C9C-4BAA-8EA3-D2041DE2B302}
+	EndGlobalSection
+EndGlobal
